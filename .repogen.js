@@ -4,6 +4,7 @@ const config = {
   repositories: [
     { servexyz: "protato-lib" },
     { servexyz: "protato-cli"},
+    { servexyz: "protato-demo" }
   ]
 };
 
