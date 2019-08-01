@@ -1,4 +1,4 @@
-![logo](./logo/svg/ProtatoZoomedOut.svg)
+![logo](./logo/svg/ProtatoZoomedOutSideMarginOnly.svg)
 
 ## Projects
 
